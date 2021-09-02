@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "823950819705",
+    "project_id": "lostedapp",
+    "storage_bucket": "lostedapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823950819705:android:2a7b7ce00760408452afa8",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823950819705-2fh4lqbdl49rrhfecdluadmlks6jmkcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAovN5xbLROejPtR3TqER89pxcp5P8bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823950819705-2fh4lqbdl49rrhfecdluadmlks6jmkcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823950819705:android:157d1f8d8708254f52afa8",
+        "android_client_info": {
+          "package_name": "com.roncoder.losted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823950819705-2fh4lqbdl49rrhfecdluadmlks6jmkcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAovN5xbLROejPtR3TqER89pxcp5P8bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823950819705-2fh4lqbdl49rrhfecdluadmlks6jmkcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

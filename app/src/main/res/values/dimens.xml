@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="regular_padding">10dp</dimen>
+    <dimen name="text_spacing">5dp</dimen>
+    <dimen name="fab_space">20dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+</resources>
